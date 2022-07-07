@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "fir-demo-dc47f": {
+      "hosting": {
+        "firebase-demo": [
+          "fir-demo-dc47f"
+        ]
+      }
+    },
+    "fir-demo-83203": {
+      "hosting": {
+        "firebase-demo": [
+          "fir-demo-83203"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-demo-83203"
+  }
+}
